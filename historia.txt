@@ -11,10 +11,7 @@ Esta aprendiendo programación en Platzi, y va a ganar bur de plata
 
 PRACTICA DE GIT REBASE
 Master 1
-<<<<<<< HEAD
 Master 2
 Experimento 1
-=======
 Experimento 1
 Experimento 2
->>>>>>> Experimento 2
