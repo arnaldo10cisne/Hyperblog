@@ -8,3 +8,6 @@ Arnaldo tiene muchas cosas por hacer,
 y trabaja duro para ello
 
 Esta aprendiendo programación en Platzi, y va a ganar bur de plata
+
+PRACTICA DE GIT REBASE
+Master 1
