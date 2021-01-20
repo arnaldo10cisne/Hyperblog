@@ -1,6 +1,6 @@
 # Hyperblog
 ### Un blog creado por Arnaldo Cisneros
-#####(para aprender git y github)
+##### (para aprender git y github)
 :laughing:
 
 Este archivo *Readme.md*  fue creado en el editor de código Markdown online https://pandao.github.io/editor.md/en.html
