@@ -12,6 +12,7 @@ En git aprendi comandos como
 - Git commit
 - Git pull
 - Git push
+- Este es el primer cambio al readme.md
 
 
 ------------
