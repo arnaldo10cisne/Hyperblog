@@ -19,8 +19,6 @@ En git aprendi comandos como
 Fecha de creación del Readme.md
 2021-01-20 08:30:40 Wednesday
 
-[========]
-
 Entrar al editor online para ver todas las funcionalidades
 
-##Saludos!
+## Saludos!
