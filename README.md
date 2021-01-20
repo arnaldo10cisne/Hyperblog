@@ -1,6 +1,26 @@
 # Hyperblog
-Un blog increíble para el curso de Git y Github de Platzi
+### Un blog creado por Arnaldo Cisneros
+######(para aprender git y github)
+:laughing:
 
-Este es el archivo README.md
+Este archivo *Readme.md*  fue creado en el editor de código Markdown online https://pandao.github.io/editor.md/en.html
 
-Lo creamos porque es una buena práctica hacerlo, y para demostrar que se pueden hacer commits desde github
+En git aprendi comandos como
+- Git init
+- Git clone
+- Git add
+- Git commit
+- Git pull
+- Git push
+
+
+------------
+
+Fecha de creación del Readme.md
+2021-01-20 08:30:40 Wednesday
+
+[========]
+
+Entrar al editor online para ver todas las funcionalidades
+
+##Saludos!
